@@ -3,4 +3,3 @@
 require ::File.expand_path('../config/environment',  __FILE__)
 run FirstApp::Application
 
-config.assets.initialize_on_precompile = false
